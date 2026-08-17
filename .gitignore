@@ -1,0 +1,23 @@
+# 忽略所有编译输出的中间文件
+*.o
+*.obj
+*.exe
+*.bin
+*.hex
+*.elf
+*.ko
+*.mod.c
+*.order
+*.symvers
+
+# 忽略系统自动生成的文件 (Windows/Mac/Linux 都有)
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# 忽略常见的 IDE 配置文件夹 (比如 VSCode 的 .vscode)
+.vscode/
+.idea/
+build/
+dist/
