@@ -1,0 +1,7 @@
+C:/Users/rabbi/Desktop/RT/Core/Src/main.c:72:5:main	1
+C:/Users/rabbi/Desktop/RT/Core/Src/main.c:119:6:SystemClock_Config	3
+C:/Users/rabbi/Desktop/RT/Core/Src/main.c:156:13:MX_USART1_UART_Init	2
+C:/Users/rabbi/Desktop/RT/Core/Src/main.c:187:13:MX_DMA_Init	1
+C:/Users/rabbi/Desktop/RT/Core/Src/main.c:205:13:MX_GPIO_Init	1
+C:/Users/rabbi/Desktop/RT/Core/Src/main.c:222:6:HAL_UARTEx_RxEventCallback	2
+C:/Users/rabbi/Desktop/RT/Core/Src/main.c:239:6:Error_Handler	1
